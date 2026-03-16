@@ -37,6 +37,8 @@ Git & GitHub
 
 📂 Project Structure
 
+```
+
 portfolio/
 │
 ├── index.html
@@ -48,6 +50,8 @@ portfolio/
 │   └── racer-moto.png
 │
 └── README.md
+
+```
 
 💡 Purpose of This Project
 
