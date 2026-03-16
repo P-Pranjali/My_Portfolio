@@ -36,14 +36,17 @@ Bootstrap
 Git & GitHub
 
 📂 Project Structure
+
 portfolio/
 │
 ├── index.html
 ├── style.css
 ├── script.js
+│
 ├── images/
 │   ├── dashboard.png
-│   └── racer-moto.jpg
+│   └── racer-moto.png
+│
 └── README.md
 
 💡 Purpose of This Project
