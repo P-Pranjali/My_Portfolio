@@ -4,7 +4,7 @@ This is my personal developer portfolio website built to showcase my projects, s
 
 🚀 Live Website
 
-🔗 Live Portfolio: https://p-pranjali.github.io/My_Portfolio/#home
+🔗 Live Portfolio: https://p-pranjali.github.io/Portfolio/#home
 
 
 📌 Features
